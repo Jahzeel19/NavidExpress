@@ -2,10 +2,6 @@
 
 Experiencia web interactiva hecha con HTML, CSS y JavaScript puro. No necesita servidor ni base de datos.
 
-## Ejecutar
-1. Extrae el ZIP.
-2. Abre `index.html` directamente en un navegador moderno (Chrome, Edge, Firefox o Safari), o con Live Server en Visual Studio Code.
-
 ## Recorrido
 1. **Bienvenida:** portada con locomotora animada (ruedas, bielas, humo, faro, guirnalda y aurora boreal).
 2. **Registro:** el pasajero escribe su nombre y recibe un boleto con código único (`EXP-AAAA-XXXX`).
